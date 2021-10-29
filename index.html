@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel= "stylesheet" type="text/css" href="calculator.css"/>
+</head>
+<body>
+    
+    <div class="container">
+           <table>
+        <h2 class="heading">Calculator</h2>
+
+        <tr>
+        <input type="text" id="display" placeholder="0" class="displayscreen"  /><br><br>
+        </tr>
+
+        <tr>
+        <input type="button"  id="clear" value="AC" class="clear"   onclick="display.value =''"/> 
+        <input type="button"  id="seven" value="/"  class="divide"    onclick="display.value +='/'"/> <br><br>
+        <input type="button"  id="clear" value="7"  class="seven"     onclick="display.value +='7'"/> 
+        <input type="button"  id="clear" value="8"  class="eight"   onclick="display.value +='8'"/> 
+        <input type="button"  id="clear" value="9"  class="nine"   onclick="display.value +='9'"/> 
+      </tr>
+
+        <input type="button"  id="clear" value="*"  class="multiply" onclick="display.value +='*'"/> <br><br>
+        <input type="button"  id="clear" value="4"  class="four" onclick="display.value +='4'"/> 
+        <input type="button"  id="clear" value="5"  class="five" onclick="display.value +='5'"/> 
+        <input type="button"  id="clear" value="6" class="six" onclick="display.value +='6'"/> 
+
+        <input type="button"  id="clear" value="-" class="subtract"onclick="display.value +='-'"/><br> <br>
+        <input type="button"  id="clear" value="1" class="one" onclick="display.value +='1'"/> 
+        <input type="button"  id="clear" value="2" class="two" onclick="display.value +='2'"/> 
+        <input type="button"  id="clear" value="3"  class="three" onclick="display.value +='3'"/> 
+
+        <input type="button"  id="clear" value="+"  class="plus"onclick="display.value +='+'"/> <br><br>
+        <input type="button"  id="clear" value="0" class="zero" onclick="display.value +='0'"/> 
+        <input type="button"  id="clear" value="."   class="dot"onclick="display.value +='.'"/> 
+        <input type="button"  id="clear" value="="  class="equal"onclick="display.value = eval(display.value)"/> 
+    </table>
+            
+    </div>
+
+    <script src="calculator.js"> </script>
+</body>
+</html>

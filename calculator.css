@@ -1,0 +1,211 @@
+body{
+    background-color:mintcream;
+}
+
+.displayscreen{
+    border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 15px;
+    padding-right: 20px;
+    font-size: 15px;
+    
+}
+
+input{
+    padding: 10px; padding-right: 35px; 
+    color: white;
+    background-color: black;
+    
+    
+}
+.clear{ padding-right: 68px; 
+       padding-left: 68px;
+       border-bottom-left-radius: 5px; 
+       border-bottom-right-radius: 5px; 
+       border-top-left-radius: 5px;
+       border-top-right-radius: 5px;
+       font-size: 15px;
+    
+
+}
+
+
+.zero{ padding-right: 45px;
+      padding-left: 45px; 
+      border-bottom-left-radius: 5px; 
+      border-bottom-right-radius: 5px; 
+      border-top-left-radius: 5px;
+      border-top-right-radius: 5px;
+      font-size: 15px;
+      
+     
+}
+
+.seven{padding-left: 20px;
+    padding-right: 20px; 
+    border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 15px;
+}
+    
+
+
+.eight{padding-left: 
+    20px;padding-right: 20px;
+     border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 15px;
+
+}
+
+
+.nine{padding-left: 20px;
+     padding-right: 20px;
+      border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 15px;
+}
+
+
+.multiply{ padding-left: 20px;
+     padding-right: 20px;
+      border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 15px;
+}
+
+
+.four{  padding-left: 20px; 
+    padding-right: 20px;
+     border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 15px;
+}
+
+
+.five{ padding-left: 
+    20px;padding-right: 20px;
+     border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 15px;
+}
+
+
+.six{ padding-left:
+     20px; padding-right: 20px; 
+     border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 15px;
+}
+
+
+.subtract{ padding-left: 22px; 
+    padding-right: 22px;
+ border-bottom-left-radius: 5px; 
+ border-bottom-right-radius: 5px; 
+ border-top-left-radius: 5px;
+ border-top-right-radius: 5px;
+ font-size: 15px;
+}
+
+.one{padding-left: 20px;
+     padding-right: 20px;
+      border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 15px;
+}
+
+
+.two{ padding-left: 20px; 
+    padding-right: 20px;
+     border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 15px;
+}
+
+
+.three{ padding-left: 20px; 
+     padding-right: 20px; 
+     border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 15px;
+}
+
+
+.plus{padding-left: 20px;
+    padding-right: 20px; 
+    border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 15px;
+}
+
+
+.dot{ padding-left: 25px;
+     padding-right: 25px;
+      border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 15px;
+}
+
+
+.equal{ padding-left: 20px;
+    padding-right: 20px; 
+    border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 15px;
+}
+
+
+.divide{padding-left: 20px; 
+    padding-right: 20px;
+     border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 15px;
+}
+
+.container{
+    background-color:brown;
+    width: 300px;
+    height: 500px;
+    padding-left: 75px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin: auto;
+}
+
+h2{
+    margin-left: 50px;
+}
+
